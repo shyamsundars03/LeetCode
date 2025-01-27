@@ -16,6 +16,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/shyamsundars03/LeetCode/tree/master/0414-third-maximum-number) |
+| [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/shyamsundars03/LeetCode/tree/master/0414-third-maximum-number) |
+| [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
