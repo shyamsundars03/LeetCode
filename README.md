@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
+| [2752-sum-multiples](https://github.com/shyamsundars03/LeetCode/tree/master/2752-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
