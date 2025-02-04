@@ -2,14 +2,14 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var numberGame = function(nums) {
+var numberGame = function(aa) {
     
 
     let arr=[]
-    nums.sort((a,b)=>a-b)
-    for(let i=0;i<nums.length;i+=2){
-        arr.push(nums[i+1])
-        arr.push(nums[i])
+    aa.sort((a,b)=>a-b)
+    for(let i=0;i<aa.length;i+=2){
+        arr.push(aa[i+1])
+        arr.push(aa[i])
     }
     
     // console.log(arr)
