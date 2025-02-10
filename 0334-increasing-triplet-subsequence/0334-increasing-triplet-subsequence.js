@@ -4,17 +4,15 @@
  */
 var increasingTriplet = function (nums) {
 
-    let fir = Infinity, sec = Infinity
+ let a = Infinity, b = Infinity, c = Infinity;
     for (let i = 0; i < nums.length; i++) {
-        if (nums[i] <= fir) {
-            fir = nums[i]
-        } else if (nums[i] <= sec) {
-            sec = nums[i]
-        } else {
-            return true
-        }
+        if (nums[i] <= a) a = nums[i];
+        else if (nums[i] <= b) b = nums[i];
+        else if (nums[i] <= c) c = nums[i];
+
+        if (c < Infinity && c > b && b > a) return true;
     }
-    return false
+    return false;
 
 
 
