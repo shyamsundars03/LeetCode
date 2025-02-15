@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
+| [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/shyamsundars03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shyamsundars03/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/shyamsundars03/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/shyamsundars03/LeetCode/tree/master/1848-sum-of-unique-elements) |
