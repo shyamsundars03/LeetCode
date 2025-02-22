@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shyamsundars03/LeetCode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0334-increasing-triplet-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -33,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shyamsundars03/LeetCode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
