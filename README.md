@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shyamsundars03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
@@ -36,6 +37,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shyamsundars03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shyamsundars03/LeetCode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -57,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shyamsundars03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2752-sum-multiples](https://github.com/shyamsundars03/LeetCode/tree/master/2752-sum-multiples) |
