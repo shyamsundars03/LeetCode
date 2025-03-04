@@ -29,6 +29,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/shyamsundars03/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/shyamsundars03/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/shyamsundars03/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/shyamsundars03/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
