@@ -6,15 +6,17 @@
 var minOperations = function(nums, k) {
 
 
+let count=0
 
-    let arr =[]
     for(let i=0;i<nums.length;i++){
         if(nums[i]<k){
-            arr.push(nums[i])
+            nums.splice(i,1)
+            i--
+            count++
         }
     }
 
-return arr.length
+return count
 
 
 
