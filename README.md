@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/shyamsundars03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/shyamsundars03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/shyamsundars03/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
