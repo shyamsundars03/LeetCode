@@ -40,6 +40,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2181-smallest-index-with-equal-value](https://github.com/shyamsundars03/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/shyamsundars03/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -66,6 +67,7 @@
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
@@ -97,6 +99,7 @@
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/shyamsundars03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -120,6 +123,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/shyamsundars03/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
