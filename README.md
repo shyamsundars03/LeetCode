@@ -31,6 +31,7 @@
 | [0414-third-maximum-number](https://github.com/shyamsundars03/LeetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/shyamsundars03/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -53,6 +54,7 @@
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -67,6 +69,7 @@
 | [0414-third-maximum-number](https://github.com/shyamsundars03/LeetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
