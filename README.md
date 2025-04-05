@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/shyamsundars03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shyamsundars03/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -99,6 +101,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shyamsundars03/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
