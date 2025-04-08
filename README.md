@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/shyamsundars03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shyamsundars03/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
@@ -156,4 +157,8 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shyamsundars03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shyamsundars03/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
