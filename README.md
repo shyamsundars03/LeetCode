@@ -54,6 +54,7 @@
 | [2181-smallest-index-with-equal-value](https://github.com/shyamsundars03/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3221-find-the-peaks](https://github.com/shyamsundars03/LeetCode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/shyamsundars03/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/shyamsundars03/LeetCode/tree/master/3429-special-array-i) |
@@ -170,4 +171,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shyamsundars03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/shyamsundars03/LeetCode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
