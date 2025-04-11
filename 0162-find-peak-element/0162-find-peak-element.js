@@ -3,6 +3,14 @@
  * @return {number}
  */
 var findPeakElement = function(nums) {
-    maxi = Math.max(...nums)
-    return nums.indexOf(maxi)
+        
+    let maxi = 0
+maxi = Math.max(...nums)
+
+for(let i=0;i<nums.length;i++){
+    if(maxi===nums[i]){
+        return nums.indexOf(nums[i])
+    }
+}
+
 };
