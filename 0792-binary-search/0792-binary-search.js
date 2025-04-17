@@ -4,10 +4,6 @@
  * @return {number}
  */
 var search = function(nums, target) {
-    if(nums.includes(target)){
-        return nums.indexOf(target)
-    }else{
-        return -1
-    }
+return nums.includes(target)? nums.indexOf(target) : -1
     
 };
