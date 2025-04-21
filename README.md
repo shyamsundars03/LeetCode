@@ -38,6 +38,7 @@
 | [0137-single-number-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/shyamsundars03/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/shyamsundars03/LeetCode/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shyamsundars03/LeetCode/tree/master/0414-third-maximum-number) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/shyamsundars03/LeetCode/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
 | ------- |
