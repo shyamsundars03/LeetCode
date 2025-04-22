@@ -43,6 +43,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shyamsundars03/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/shyamsundars03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/shyamsundars03/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -74,6 +75,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shyamsundars03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shyamsundars03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shyamsundars03/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/shyamsundars03/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Union Find
 |  |
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/shyamsundars03/LeetCode/tree/master/3221-find-the-peaks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
