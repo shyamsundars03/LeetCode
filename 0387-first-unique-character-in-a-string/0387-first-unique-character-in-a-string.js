@@ -4,24 +4,22 @@
  */
 var firstUniqChar = function(s) {
 
-let arr = s.split("")
-let a=""
-  let frq={}
-    for(let val of s){
-        frq[val]= (frq[val] || 0)+1
-    }
-
-      for(let val in frq ){
-        if(frq[val]===1){
-            a= val
-            break
-        }
-      } 
+let si = s.split("")
+// console.log(si)
+let uni = si.filter((val,ind)=> s.indexOf(val)===ind && s.lastIndexOf(val)===ind)
+    console.log(uni)
+    let lett = uni[0]
+    console.log(lett)
     
-if(a!== ""){
-    return arr.indexOf(a)
-}else{
-    return -1
-}
+  for(let i=0;i<si.length;i++){
+      if(si[i]===lett){
+          return i
+      }
+      if(uni.length===0){
+        return -1
+      }
+  }
+   
+   
 
 };
