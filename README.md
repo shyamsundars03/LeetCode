@@ -26,6 +26,7 @@
 | [2235-capitalize-the-title](https://github.com/shyamsundars03/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2825-minimize-string-length](https://github.com/shyamsundars03/LeetCode/tree/master/2825-minimize-string-length) |
+| [2886-faulty-keyboard](https://github.com/shyamsundars03/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3312-number-of-changing-keys](https://github.com/shyamsundars03/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/shyamsundars03/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -140,6 +141,7 @@
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shyamsundars03/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2886-faulty-keyboard](https://github.com/shyamsundars03/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
