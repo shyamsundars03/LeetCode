@@ -47,6 +47,7 @@
 | [0162-find-peak-element](https://github.com/shyamsundars03/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/shyamsundars03/LeetCode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/shyamsundars03/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shyamsundars03/LeetCode/tree/master/0414-third-maximum-number) |
@@ -156,6 +157,7 @@
 | [0088-merge-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/shyamsundars03/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
