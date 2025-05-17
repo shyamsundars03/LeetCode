@@ -72,6 +72,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2181-smallest-index-with-equal-value](https://github.com/shyamsundars03/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/shyamsundars03/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/shyamsundars03/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -118,6 +119,7 @@
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/shyamsundars03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
@@ -195,6 +197,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
 |  |
 | ------- |
