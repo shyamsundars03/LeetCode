@@ -24,6 +24,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/shyamsundars03/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/shyamsundars03/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/shyamsundars03/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/shyamsundars03/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/shyamsundars03/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/shyamsundars03/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -75,6 +76,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2181-smallest-index-with-equal-value](https://github.com/shyamsundars03/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/shyamsundars03/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/shyamsundars03/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/shyamsundars03/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -174,6 +176,7 @@
 | [0953-reverse-only-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/shyamsundars03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/shyamsundars03/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/shyamsundars03/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
