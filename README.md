@@ -17,6 +17,7 @@
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shyamsundars03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/shyamsundars03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -72,6 +73,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/shyamsundars03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/shyamsundars03/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/shyamsundars03/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -107,6 +109,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shyamsundars03/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/shyamsundars03/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -152,6 +155,7 @@
 | [0137-single-number-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/shyamsundars03/LeetCode/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/shyamsundars03/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
@@ -188,6 +192,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/shyamsundars03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shyamsundars03/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/shyamsundars03/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
