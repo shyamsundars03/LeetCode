@@ -141,6 +141,7 @@
 | [0013-roman-to-integer](https://github.com/shyamsundars03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
+| [0292-nim-game](https://github.com/shyamsundars03/LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/shyamsundars03/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -259,4 +260,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shyamsundars03/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shyamsundars03/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
