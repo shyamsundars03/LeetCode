@@ -16,6 +16,7 @@
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shyamsundars03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -71,6 +72,7 @@
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/shyamsundars03/LeetCode/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -120,6 +122,7 @@
 | [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shyamsundars03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
