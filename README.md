@@ -176,6 +176,7 @@
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/shyamsundars03/LeetCode/tree/master/0507-perfect-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1236-n-th-tribonacci-number](https://github.com/shyamsundars03/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/shyamsundars03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -282,6 +283,7 @@
 | [0198-house-robber](https://github.com/shyamsundars03/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shyamsundars03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/shyamsundars03/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -332,4 +334,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/shyamsundars03/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
