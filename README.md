@@ -78,6 +78,7 @@
 | [0792-binary-search](https://github.com/shyamsundars03/LeetCode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
+| [0932-monotonic-array](https://github.com/shyamsundars03/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/shyamsundars03/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
