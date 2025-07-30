@@ -94,6 +94,7 @@
 | [1651-shuffle-string](https://github.com/shyamsundars03/LeetCode/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/shyamsundars03/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/shyamsundars03/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/shyamsundars03/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyamsundars03/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -346,4 +347,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/shyamsundars03/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/shyamsundars03/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
