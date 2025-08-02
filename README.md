@@ -15,6 +15,7 @@
 | [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0504-base-7](https://github.com/shyamsundars03/LeetCode/tree/master/0504-base-7) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shyamsundars03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -182,6 +183,7 @@
 | [0292-nim-game](https://github.com/shyamsundars03/LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/shyamsundars03/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/shyamsundars03/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/shyamsundars03/LeetCode/tree/master/0507-perfect-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/shyamsundars03/LeetCode/tree/master/1236-n-th-tribonacci-number) |
