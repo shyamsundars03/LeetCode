@@ -182,6 +182,7 @@
 | [0066-plus-one](https://github.com/shyamsundars03/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/shyamsundars03/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/shyamsundars03/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/shyamsundars03/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/shyamsundars03/LeetCode/tree/master/0504-base-7) |
@@ -344,6 +345,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/shyamsundars03/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shyamsundars03/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shyamsundars03/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/shyamsundars03/LeetCode/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
 | ------- |
