@@ -11,6 +11,7 @@
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
@@ -365,10 +366,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -377,4 +380,9 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
