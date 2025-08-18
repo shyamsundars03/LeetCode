@@ -101,6 +101,7 @@
 | [1833-find-the-highest-altitude](https://github.com/shyamsundars03/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/shyamsundars03/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shyamsundars03/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyamsundars03/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2181-smallest-index-with-equal-value](https://github.com/shyamsundars03/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/shyamsundars03/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -279,6 +280,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shyamsundars03/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/shyamsundars03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
