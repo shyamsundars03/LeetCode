@@ -125,6 +125,7 @@
 | [3429-special-array-i](https://github.com/shyamsundars03/LeetCode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2825-minimize-string-length](https://github.com/shyamsundars03/LeetCode/tree/master/2825-minimize-string-length) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shyamsundars03/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/shyamsundars03/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/shyamsundars03/LeetCode/tree/master/2752-sum-multiples) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -270,6 +273,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shyamsundars03/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting Sort
 |  |
 | ------- |
@@ -397,4 +401,5 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shyamsundars03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
