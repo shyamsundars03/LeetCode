@@ -121,6 +121,7 @@
 | [3194-find-words-containing-character](https://github.com/shyamsundars03/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/shyamsundars03/LeetCode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shyamsundars03/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/shyamsundars03/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/shyamsundars03/LeetCode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
