@@ -391,11 +391,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shyamsundars03/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shyamsundars03/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -405,6 +407,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shyamsundars03/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
