@@ -199,6 +199,7 @@
 | [0043-multiply-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/shyamsundars03/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shyamsundars03/LeetCode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/shyamsundars03/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shyamsundars03/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/shyamsundars03/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -312,6 +313,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shyamsundars03/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shyamsundars03/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/shyamsundars03/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/shyamsundars03/LeetCode/tree/master/0792-binary-search) |
