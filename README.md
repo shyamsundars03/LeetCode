@@ -217,6 +217,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shyamsundars03/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/shyamsundars03/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2630-alternating-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/shyamsundars03/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shyamsundars03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
