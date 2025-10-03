@@ -26,6 +26,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/shyamsundars03/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/shyamsundars03/LeetCode/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shyamsundars03/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/shyamsundars03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -100,6 +101,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/shyamsundars03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/shyamsundars03/LeetCode/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shyamsundars03/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/shyamsundars03/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/shyamsundars03/LeetCode/tree/master/1833-find-the-highest-altitude) |
