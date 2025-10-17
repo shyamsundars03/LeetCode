@@ -218,6 +218,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/shyamsundars03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shyamsundars03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2507-number-of-common-factors](https://github.com/shyamsundars03/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shyamsundars03/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/shyamsundars03/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2630-alternating-digit-sum) |
@@ -351,6 +352,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2507-number-of-common-factors](https://github.com/shyamsundars03/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3221-find-the-peaks](https://github.com/shyamsundars03/LeetCode/tree/master/3221-find-the-peaks) |
 ## Monotonic Stack
 |  |
@@ -426,6 +428,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shyamsundars03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/shyamsundars03/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
