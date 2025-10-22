@@ -80,6 +80,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shyamsundars03/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/shyamsundars03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -147,6 +148,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shyamsundars03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
