@@ -122,6 +122,7 @@
 | [2486-most-frequent-even-element](https://github.com/shyamsundars03/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shyamsundars03/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/shyamsundars03/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -194,6 +195,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -248,6 +250,7 @@
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shyamsundars03/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2886-faulty-keyboard](https://github.com/shyamsundars03/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shyamsundars03/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -306,6 +309,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shyamsundars03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
@@ -331,6 +335,7 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/shyamsundars03/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
 |  |
 | ------- |
