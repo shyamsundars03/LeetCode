@@ -238,6 +238,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/shyamsundars03/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/shyamsundars03/LeetCode/tree/master/2752-sum-multiples) |
+| [2998-count-symmetric-integers](https://github.com/shyamsundars03/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shyamsundars03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3830-find-closest-person](https://github.com/shyamsundars03/LeetCode/tree/master/3830-find-closest-person) |
@@ -379,6 +380,7 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/shyamsundars03/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2998-count-symmetric-integers](https://github.com/shyamsundars03/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/shyamsundars03/LeetCode/tree/master/3221-find-the-peaks) |
 ## Monotonic Stack
 |  |
