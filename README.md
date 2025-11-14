@@ -144,6 +144,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shyamsundars03/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/shyamsundars03/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [2825-minimize-string-length](https://github.com/shyamsundars03/LeetCode/tree/master/2825-minimize-string-length) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shyamsundars03/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |
 | ------- |
@@ -341,6 +344,7 @@
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shyamsundars03/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/shyamsundars03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
 |  |
 | ------- |
