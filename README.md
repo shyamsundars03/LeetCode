@@ -56,6 +56,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/shyamsundars03/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/shyamsundars03/LeetCode/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shyamsundars03/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/shyamsundars03/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2825-minimize-string-length](https://github.com/shyamsundars03/LeetCode/tree/master/2825-minimize-string-length) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shyamsundars03/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/shyamsundars03/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
@@ -321,6 +323,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shyamsundars03/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/shyamsundars03/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting Sort
 |  |
