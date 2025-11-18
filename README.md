@@ -42,6 +42,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shyamsundars03/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/shyamsundars03/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/shyamsundars03/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shyamsundars03/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/shyamsundars03/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
