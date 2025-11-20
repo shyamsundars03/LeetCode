@@ -228,6 +228,7 @@
 | [0066-plus-one](https://github.com/shyamsundars03/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shyamsundars03/LeetCode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/shyamsundars03/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/shyamsundars03/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shyamsundars03/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/shyamsundars03/LeetCode/tree/master/0371-sum-of-two-integers) |
