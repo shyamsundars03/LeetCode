@@ -52,6 +52,7 @@
 | [2886-faulty-keyboard](https://github.com/shyamsundars03/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3019-furthest-point-from-origin](https://github.com/shyamsundars03/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/shyamsundars03/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3280-convert-date-to-binary](https://github.com/shyamsundars03/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3312-number-of-changing-keys](https://github.com/shyamsundars03/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/3379-score-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shyamsundars03/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -257,6 +258,7 @@
 | [2752-sum-multiples](https://github.com/shyamsundars03/LeetCode/tree/master/2752-sum-multiples) |
 | [2998-count-symmetric-integers](https://github.com/shyamsundars03/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shyamsundars03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3280-convert-date-to-binary](https://github.com/shyamsundars03/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/shyamsundars03/LeetCode/tree/master/3830-find-closest-person) |
