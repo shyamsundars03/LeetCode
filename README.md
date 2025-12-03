@@ -259,6 +259,7 @@
 | [2998-count-symmetric-integers](https://github.com/shyamsundars03/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shyamsundars03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/shyamsundars03/LeetCode/tree/master/3280-convert-date-to-binary) |
+| [3360-stone-removal-game](https://github.com/shyamsundars03/LeetCode/tree/master/3360-stone-removal-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/shyamsundars03/LeetCode/tree/master/3830-find-closest-person) |
@@ -290,6 +291,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2886-faulty-keyboard](https://github.com/shyamsundars03/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/shyamsundars03/LeetCode/tree/master/3360-stone-removal-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shyamsundars03/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Two Pointers
 |  |
