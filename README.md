@@ -95,6 +95,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/shyamsundars03/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shyamsundars03/LeetCode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
@@ -398,6 +399,7 @@
 | [0234-palindrome-linked-list](https://github.com/shyamsundars03/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/shyamsundars03/LeetCode/tree/master/0739-daily-temperatures) |
 | [2128-reverse-prefix-of-word](https://github.com/shyamsundars03/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Union Find
 |  |
@@ -413,6 +415,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shyamsundars03/LeetCode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
