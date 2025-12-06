@@ -122,6 +122,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shyamsundars03/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shyamsundars03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shyamsundars03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyamsundars03/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/shyamsundars03/LeetCode/tree/master/2159-two-out-of-three) |
@@ -217,6 +218,7 @@
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/shyamsundars03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shyamsundars03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -450,6 +452,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shyamsundars03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Memoization
 |  |
 | ------- |
