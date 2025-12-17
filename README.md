@@ -244,6 +244,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/shyamsundars03/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/shyamsundars03/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shyamsundars03/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/shyamsundars03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/shyamsundars03/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/shyamsundars03/LeetCode/tree/master/0504-base-7) |
@@ -386,6 +387,7 @@
 | [0069-sqrtx](https://github.com/shyamsundars03/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/shyamsundars03/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/shyamsundars03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/shyamsundars03/LeetCode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
