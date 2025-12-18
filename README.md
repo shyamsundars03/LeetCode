@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyamsundars03/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shyamsundars03/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/shyamsundars03/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -73,6 +74,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shyamsundars03/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shyamsundars03/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/shyamsundars03/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shyamsundars03/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shyamsundars03/LeetCode/tree/master/0118-pascals-triangle) |
@@ -166,6 +168,7 @@
 | [0013-roman-to-integer](https://github.com/shyamsundars03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyamsundars03/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/shyamsundars03/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/shyamsundars03/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shyamsundars03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shyamsundars03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
@@ -209,6 +212,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shyamsundars03/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0229-majority-element-ii) |
