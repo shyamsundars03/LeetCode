@@ -116,6 +116,7 @@
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/shyamsundars03/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1534-count-good-triplets](https://github.com/shyamsundars03/LeetCode/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -188,6 +189,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -229,6 +231,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/shyamsundars03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shyamsundars03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
