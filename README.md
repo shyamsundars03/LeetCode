@@ -15,6 +15,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/shyamsundars03/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/shyamsundars03/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -557,13 +558,16 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0214-shortest-palindrome) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shyamsundars03/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shyamsundars03/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
