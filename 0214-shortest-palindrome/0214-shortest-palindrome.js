@@ -36,35 +36,18 @@ var shortestPalindrome = function(s) {
 
 //     return res;
 
-    function reverse(str){
-        return str.split("").reverse().join("");
-    }
-
-    function helper(s){
-        let i = 0;
-
-        // match prefix chars with suffix chars from end
-        for(let j = s.length - 1; j >= 0; j--){
-            if(s[i] === s[j]) i++;
+     let n = s.length;
+    if (n === 0) return s;
+    let left = 0;
+    for (let right = n - 1; right >= 0; right--) {
+        if (s[left] === s[right]) {
+            left++;
         }
-
-        // if entire string is palindrome already
-        if(i === s.length) return s;
-
-        // remaining unmatched suffix
-        const suffix = s.slice(i);
-
-        // reverse it to prepend
-        const prefixToAdd = reverse(suffix);
-
-        // recursively process the prefix part
-        const mid = helper(s.slice(0, i));
-
-        // build final string
-        return prefixToAdd + mid + suffix;
     }
-
-    return helper(s);
+    if (left === n) return s;
+    let res = s.slice(left).split('').reverse().join('');
+    let prefixPalindrome = shortestPalindrome(s.slice(0, left))
+    return res + prefixPalindrome + s.slice(left);
 
 
 
