@@ -33,6 +33,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/shyamsundars03/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/shyamsundars03/LeetCode/tree/master/1651-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/shyamsundars03/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shyamsundars03/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1859-sorting-the-sentence](https://github.com/shyamsundars03/LeetCode/tree/master/1859-sorting-the-sentence) |
@@ -373,6 +374,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/shyamsundars03/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shyamsundars03/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shyamsundars03/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
