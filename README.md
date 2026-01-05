@@ -26,6 +26,7 @@
 | [0504-base-7](https://github.com/shyamsundars03/LeetCode/tree/master/0504-base-7) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0824-goat-latin](https://github.com/shyamsundars03/LeetCode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0848-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shyamsundars03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
