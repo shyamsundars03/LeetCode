@@ -127,6 +127,7 @@
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/shyamsundars03/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1390-four-divisors](https://github.com/shyamsundars03/LeetCode/tree/master/1390-four-divisors) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1534-count-good-triplets](https://github.com/shyamsundars03/LeetCode/tree/master/1534-count-good-triplets) |
@@ -287,6 +288,7 @@
 | [0728-self-dividing-numbers](https://github.com/shyamsundars03/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/shyamsundars03/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/shyamsundars03/LeetCode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shyamsundars03/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
