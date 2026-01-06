@@ -173,6 +173,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shyamsundars03/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/shyamsundars03/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/shyamsundars03/LeetCode/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shyamsundars03/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -311,6 +312,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shyamsundars03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/shyamsundars03/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3360-stone-removal-game](https://github.com/shyamsundars03/LeetCode/tree/master/3360-stone-removal-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shyamsundars03/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/shyamsundars03/LeetCode/tree/master/3830-find-closest-person) |
@@ -527,6 +529,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/shyamsundars03/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shyamsundars03/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shyamsundars03/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
 |  |
 | ------- |
