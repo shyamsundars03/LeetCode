@@ -292,6 +292,7 @@
 | [1390-four-divisors](https://github.com/shyamsundars03/LeetCode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shyamsundars03/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/shyamsundars03/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/shyamsundars03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shyamsundars03/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
