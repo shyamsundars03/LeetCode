@@ -57,6 +57,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shyamsundars03/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shyamsundars03/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/shyamsundars03/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shyamsundars03/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2825-minimize-string-length](https://github.com/shyamsundars03/LeetCode/tree/master/2825-minimize-string-length) |
@@ -524,6 +525,7 @@
 | [0848-shifting-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0848-shifting-letters) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/shyamsundars03/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shyamsundars03/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Tree
 |  |
 | ------- |
