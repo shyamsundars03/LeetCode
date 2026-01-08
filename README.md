@@ -168,6 +168,7 @@
 | [2881-split-strings-by-separator](https://github.com/shyamsundars03/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/shyamsundars03/LeetCode/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shyamsundars03/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-find-words-containing-character](https://github.com/shyamsundars03/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/shyamsundars03/LeetCode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
@@ -350,6 +351,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2886-faulty-keyboard](https://github.com/shyamsundars03/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shyamsundars03/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 | [3360-stone-removal-game](https://github.com/shyamsundars03/LeetCode/tree/master/3360-stone-removal-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shyamsundars03/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
