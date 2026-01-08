@@ -169,6 +169,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/shyamsundars03/LeetCode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shyamsundars03/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shyamsundars03/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-find-words-containing-character](https://github.com/shyamsundars03/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/shyamsundars03/LeetCode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
@@ -234,6 +235,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/shyamsundars03/LeetCode/tree/master/2540-minimum-common-value) |
 | [2825-minimize-string-length](https://github.com/shyamsundars03/LeetCode/tree/master/2825-minimize-string-length) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shyamsundars03/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3668-restore-finishing-order](https://github.com/shyamsundars03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shyamsundars03/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shyamsundars03/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -405,6 +407,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/shyamsundars03/LeetCode/tree/master/3019-furthest-point-from-origin) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shyamsundars03/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shyamsundars03/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shyamsundars03/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
