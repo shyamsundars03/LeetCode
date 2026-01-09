@@ -307,6 +307,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/shyamsundars03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shyamsundars03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/shyamsundars03/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2507-number-of-common-factors](https://github.com/shyamsundars03/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -351,6 +352,7 @@
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shyamsundars03/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shyamsundars03/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/shyamsundars03/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2886-faulty-keyboard](https://github.com/shyamsundars03/LeetCode/tree/master/2886-faulty-keyboard) |
