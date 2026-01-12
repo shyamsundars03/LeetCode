@@ -4,25 +4,37 @@
  * @return {boolean}
  */
 var canConstruct = function(ransomNote, magazine) {
-    let f1 ={}
-    for(let val of ransomNote){
-        f1[val] =  (f1[val] || 0)+1
-    }
-    let f2={}
-    for(let val of magazine){
-        f2[val] =  (f2[val] || 0)+1
-    }
+    // let f1 ={}
+    // for(let val of ransomNote){
+    //     f1[val] =  (f1[val] || 0)+1
+    // }
+    // let f2={}
+    // for(let val of magazine){
+    //     f2[val] =  (f2[val] || 0)+1
+    // }
     
-    f1 = Object.entries(f1)
-    f2 = Object.entries(f2)
-    console.log(f1)
-    console.log(f2)
-    const map = new Map(f2)
+    // f1 = Object.entries(f1)
+    // f2 = Object.entries(f2)
+    // console.log(f1)
+    // console.log(f2)
+    // const map = new Map(f2)
 
-    const result = f1.map(([char, value]) => {
-        const matchedValue = map.get(char) ?? 0
-        return [char, value - matchedValue]
-    })
+    // const result = f1.map(([char, value]) => {
+    //     const matchedValue = map.get(char) ?? 0
+    //     return [char, value - matchedValue]
+    // })
 
-    return result.every(([, remaining]) => remaining <= 0)
+    // return result.every(([, remaining]) => remaining <= 0)
+
+
+
+        for(let val of magazine){
+        ransomNote =  ransomNote.replace(val,"")
+    }
+    console.log(ransomNote)
+    
+    if(ransomNote.length!=0){
+        return false
+    }
+    return true
 };
