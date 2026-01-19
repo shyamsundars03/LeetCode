@@ -61,6 +61,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shyamsundars03/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/shyamsundars03/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shyamsundars03/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2825-minimize-string-length](https://github.com/shyamsundars03/LeetCode/tree/master/2825-minimize-string-length) |
@@ -164,6 +165,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/shyamsundars03/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/shyamsundars03/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shyamsundars03/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shyamsundars03/LeetCode/tree/master/2540-minimum-common-value) |
