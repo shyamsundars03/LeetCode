@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyamsundars03/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shyamsundars03/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shyamsundars03/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
@@ -375,6 +376,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shyamsundars03/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -609,6 +611,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0214-shortest-palindrome) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Rolling Hash
