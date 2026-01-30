@@ -27,4 +27,25 @@ var maxSum = function(nums) {
 
   return res;
     
+
+//    let sorted = nums.sort((a, b) => b - a); 
+//     let ans = -1;
+
+//     for (let i = 0; i < sorted.length; i++) {
+//         let maxV = Math.max(...String(sorted[i]).split("").map(Number));
+//         console.log(maxV)
+//         let sameDigitNums = sorted.filter((num) => {
+//             let digit = Math.max(...String(num).split("").map(Number));
+//             return digit === maxV;
+//         });
+//         console.log(sameDigitNums)
+//         if (sameDigitNums.length > 1) {
+//             ans = Math.max(ans, sameDigitNums[0] + sameDigitNums[1]);
+//         }
+//     }
+
+//     return ans;
+
+
+
 };
