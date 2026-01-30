@@ -315,6 +315,7 @@
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shyamsundars03/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/shyamsundars03/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/shyamsundars03/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/shyamsundars03/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shyamsundars03/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shyamsundars03/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -379,6 +380,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/shyamsundars03/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -614,6 +616,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shyamsundars03/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shyamsundars03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/shyamsundars03/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
