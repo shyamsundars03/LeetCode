@@ -344,6 +344,7 @@
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shyamsundars03/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/shyamsundars03/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [2652-sum-multiples](https://github.com/shyamsundars03/LeetCode/tree/master/2652-sum-multiples) |
 | [2752-sum-multiples](https://github.com/shyamsundars03/LeetCode/tree/master/2752-sum-multiples) |
 | [2998-count-symmetric-integers](https://github.com/shyamsundars03/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3024-type-of-triangle](https://github.com/shyamsundars03/LeetCode/tree/master/3024-type-of-triangle) |
