@@ -184,6 +184,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/shyamsundars03/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shyamsundars03/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2815-max-pair-sum-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/shyamsundars03/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/shyamsundars03/LeetCode/tree/master/3024-type-of-triangle) |
@@ -259,6 +260,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/shyamsundars03/LeetCode/tree/master/2540-minimum-common-value) |
+| [2815-max-pair-sum-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2825-minimize-string-length](https://github.com/shyamsundars03/LeetCode/tree/master/2825-minimize-string-length) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shyamsundars03/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3668-restore-finishing-order](https://github.com/shyamsundars03/LeetCode/tree/master/3668-restore-finishing-order) |
