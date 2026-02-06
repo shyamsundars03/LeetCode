@@ -206,6 +206,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3634-minimum-removals-to-balance-array](https://github.com/shyamsundars03/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3668-restore-finishing-order](https://github.com/shyamsundars03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shyamsundars03/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shyamsundars03/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -309,6 +310,7 @@
 | [3024-type-of-triangle](https://github.com/shyamsundars03/LeetCode/tree/master/3024-type-of-triangle) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3634-minimum-removals-to-balance-array](https://github.com/shyamsundars03/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3934-coupon-code-validator](https://github.com/shyamsundars03/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
@@ -580,6 +582,7 @@
 | [0187-repeated-dna-sequences](https://github.com/shyamsundars03/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shyamsundars03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/shyamsundars03/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Memoization
 |  |
 | ------- |
