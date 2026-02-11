@@ -38,6 +38,7 @@
 | [0848-shifting-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0848-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shyamsundars03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1002-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/shyamsundars03/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -135,6 +136,7 @@
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shyamsundars03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/shyamsundars03/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1002-find-common-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/shyamsundars03/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -245,6 +247,7 @@
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shyamsundars03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shyamsundars03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1002-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
