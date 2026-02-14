@@ -32,6 +32,7 @@
 | [0551-student-attendance-record-i](https://github.com/shyamsundars03/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/shyamsundars03/LeetCode/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0806-number-of-lines-to-write-string](https://github.com/shyamsundars03/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0824-goat-latin](https://github.com/shyamsundars03/LeetCode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -129,6 +130,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/shyamsundars03/LeetCode/tree/master/0792-binary-search) |
+| [0806-number-of-lines-to-write-string](https://github.com/shyamsundars03/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0848-shifting-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0848-shifting-letters) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
