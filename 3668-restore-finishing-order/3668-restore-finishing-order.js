@@ -4,13 +4,16 @@
  * @return {number[]}
  */
 var recoverOrder = function(order, friends) {
-        let res = []
+        
+    let res=  []
     
-    for(let val of order){
-        if(friends.includes(val)){
-            res.push(val)
+    for(let i=0;i<order.length;i++){
+        if(friends.includes(order[i])){
+            res.push(order[i])
         }
     }
     
     return res
+    
+    
 };
