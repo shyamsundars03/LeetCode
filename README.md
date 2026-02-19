@@ -134,6 +134,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/shyamsundars03/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0848-shifting-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0848-shifting-letters) |
+| [0867-transpose-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0867-transpose-matrix) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/shyamsundars03/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -409,6 +410,7 @@
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shyamsundars03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shyamsundars03/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shyamsundars03/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -527,6 +529,7 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0867-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/shyamsundars03/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
