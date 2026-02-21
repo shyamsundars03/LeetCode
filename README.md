@@ -30,6 +30,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/shyamsundars03/LeetCode/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/shyamsundars03/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0696-count-binary-substrings](https://github.com/shyamsundars03/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/shyamsundars03/LeetCode/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/shyamsundars03/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
@@ -436,6 +437,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/shyamsundars03/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/shyamsundars03/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
