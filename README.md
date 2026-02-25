@@ -146,6 +146,7 @@
 | [1002-find-common-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/shyamsundars03/LeetCode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/shyamsundars03/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
@@ -502,6 +503,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shyamsundars03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/shyamsundars03/LeetCode/tree/master/1046-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
