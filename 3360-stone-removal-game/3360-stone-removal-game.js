@@ -3,22 +3,24 @@
  * @return {boolean}
  */
 var canAliceWin = function(n) {
-let l = 10
-let v = n
-let p = "A"
+let person = "B"
 
-while(v>=0){
-    v= v-l
-    // console.log(v)
-    if(p == "A"){
-        p = "B"   
-    }else{
-        p = "A"
-    }
-    console.log(v,p)
-    l--
+let c= 10
+
+let v=n
+let i=0
+while(i<=n){
+    
+    v = v-(c-i)
+    console.log(v)
+    if(v<0)break
+if(person == "B"){
+    person = "A"
+}else{
+    person = "B"
+}
+    i++
 }
 
-return p=="A" ? true : false
-    
+return person == "A"? true: false
 };
