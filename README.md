@@ -45,6 +45,7 @@
 | [1002-find-common-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1002-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shyamsundars03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/shyamsundars03/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/shyamsundars03/LeetCode/tree/master/1651-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shyamsundars03/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -411,6 +412,7 @@
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shyamsundars03/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/shyamsundars03/LeetCode/tree/master/0868-binary-gap) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shyamsundars03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shyamsundars03/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/shyamsundars03/LeetCode/tree/master/2159-two-out-of-three) |
@@ -425,6 +427,7 @@
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0867-transpose-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shyamsundars03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shyamsundars03/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shyamsundars03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shyamsundars03/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
