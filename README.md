@@ -129,6 +129,7 @@
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/shyamsundars03/LeetCode/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/shyamsundars03/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shyamsundars03/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -260,6 +261,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/shyamsundars03/LeetCode/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -316,6 +318,7 @@
 | [0414-third-maximum-number](https://github.com/shyamsundars03/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/shyamsundars03/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shyamsundars03/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
@@ -456,6 +459,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/shyamsundars03/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/shyamsundars03/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -543,6 +547,7 @@
 | [0162-find-peak-element](https://github.com/shyamsundars03/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shyamsundars03/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shyamsundars03/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shyamsundars03/LeetCode/tree/master/0792-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/shyamsundars03/LeetCode/tree/master/1539-kth-missing-positive-number) |
