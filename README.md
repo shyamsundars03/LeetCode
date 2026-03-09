@@ -59,6 +59,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shyamsundars03/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/shyamsundars03/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shyamsundars03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/shyamsundars03/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shyamsundars03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamsundars03/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/shyamsundars03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -179,6 +180,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/shyamsundars03/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shyamsundars03/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1980-find-unique-binary-string](https://github.com/shyamsundars03/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shyamsundars03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shyamsundars03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -279,6 +281,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shyamsundars03/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shyamsundars03/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shyamsundars03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/shyamsundars03/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyamsundars03/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -679,6 +682,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyamsundars03/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1980-find-unique-binary-string](https://github.com/shyamsundars03/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Number Theory
 |  |
 | ------- |
