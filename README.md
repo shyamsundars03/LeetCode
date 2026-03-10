@@ -372,6 +372,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shyamsundars03/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/shyamsundars03/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shyamsundars03/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/shyamsundars03/LeetCode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shyamsundars03/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -420,6 +421,7 @@
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shyamsundars03/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/shyamsundars03/LeetCode/tree/master/0868-binary-gap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shyamsundars03/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shyamsundars03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shyamsundars03/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
