@@ -199,6 +199,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shyamsundars03/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2404-most-frequent-even-element](https://github.com/shyamsundars03/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/shyamsundars03/LeetCode/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/shyamsundars03/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -294,6 +295,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/shyamsundars03/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shyamsundars03/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2404-most-frequent-even-element](https://github.com/shyamsundars03/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/shyamsundars03/LeetCode/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/shyamsundars03/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/shyamsundars03/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -505,6 +507,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyamsundars03/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/shyamsundars03/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shyamsundars03/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2404-most-frequent-even-element](https://github.com/shyamsundars03/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/shyamsundars03/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/shyamsundars03/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/shyamsundars03/LeetCode/tree/master/2486-most-frequent-even-element) |
