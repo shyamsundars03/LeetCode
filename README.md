@@ -151,6 +151,7 @@
 | [0848-shifting-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0867-transpose-matrix) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0932-monotonic-array](https://github.com/shyamsundars03/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shyamsundars03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -338,6 +339,7 @@
 | [0561-array-partition](https://github.com/shyamsundars03/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shyamsundars03/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
@@ -483,6 +485,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/shyamsundars03/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/shyamsundars03/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0953-reverse-only-letters) |
