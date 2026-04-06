@@ -419,6 +419,7 @@
 | [3360-stone-removal-game](https://github.com/shyamsundars03/LeetCode/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shyamsundars03/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shyamsundars03/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3516-find-closest-person](https://github.com/shyamsundars03/LeetCode/tree/master/3516-find-closest-person) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shyamsundars03/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/shyamsundars03/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shyamsundars03/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
