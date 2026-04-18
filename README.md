@@ -242,6 +242,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/shyamsundars03/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3719-longest-balanced-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shyamsundars03/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shyamsundars03/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/shyamsundars03/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -317,6 +318,7 @@
 | [3668-restore-finishing-order](https://github.com/shyamsundars03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/shyamsundars03/LeetCode/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shyamsundars03/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shyamsundars03/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shyamsundars03/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
