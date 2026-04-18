@@ -113,6 +113,7 @@
 | [0041-first-missing-positive](https://github.com/shyamsundars03/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shyamsundars03/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shyamsundars03/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/shyamsundars03/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shyamsundars03/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -432,6 +433,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/shyamsundars03/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shyamsundars03/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/shyamsundars03/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/shyamsundars03/LeetCode/tree/master/0190-reverse-bits) |
@@ -716,6 +718,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyamsundars03/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/shyamsundars03/LeetCode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/shyamsundars03/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Number Theory
