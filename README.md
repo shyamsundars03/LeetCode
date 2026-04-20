@@ -168,6 +168,7 @@
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/shyamsundars03/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/shyamsundars03/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shyamsundars03/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shyamsundars03/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/shyamsundars03/LeetCode/tree/master/1390-four-divisors) |
 | [1436-destination-city](https://github.com/shyamsundars03/LeetCode/tree/master/1436-destination-city) |
@@ -670,6 +671,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shyamsundars03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shyamsundars03/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shyamsundars03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamsundars03/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shyamsundars03/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
