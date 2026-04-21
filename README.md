@@ -153,6 +153,7 @@
 | [0867-transpose-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0867-transpose-matrix) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-monotonic-array](https://github.com/shyamsundars03/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shyamsundars03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -344,6 +345,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shyamsundars03/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
@@ -546,6 +548,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shyamsundars03/LeetCode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0912-sort-an-array) |
 | [1137-height-checker](https://github.com/shyamsundars03/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shyamsundars03/LeetCode/tree/master/1217-relative-sort-array) |
 ## Heap (Priority Queue)
@@ -553,6 +556,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shyamsundars03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/shyamsundars03/LeetCode/tree/master/1046-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -738,12 +742,14 @@
 | [0190-reverse-bits](https://github.com/shyamsundars03/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shyamsundars03/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shyamsundars03/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0912-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shyamsundars03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -770,4 +776,12 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/shyamsundars03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
