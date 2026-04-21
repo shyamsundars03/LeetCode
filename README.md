@@ -356,6 +356,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shyamsundars03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shyamsundars03/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shyamsundars03/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/shyamsundars03/LeetCode/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shyamsundars03/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -554,6 +555,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shyamsundars03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/shyamsundars03/LeetCode/tree/master/1046-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shyamsundars03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/shyamsundars03/LeetCode/tree/master/3226-minimum-number-game) |
 ## Greedy
