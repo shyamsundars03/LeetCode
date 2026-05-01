@@ -127,6 +127,7 @@
 | [0217-contains-duplicate](https://github.com/shyamsundars03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/shyamsundars03/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/shyamsundars03/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/shyamsundars03/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shyamsundars03/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -697,6 +698,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shyamsundars03/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0848-shifting-letters) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shyamsundars03/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/shyamsundars03/LeetCode/tree/master/1833-find-the-highest-altitude) |
