@@ -154,6 +154,7 @@
 | [0792-binary-search](https://github.com/shyamsundars03/LeetCode/tree/master/0792-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/shyamsundars03/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0832-flipping-an-image](https://github.com/shyamsundars03/LeetCode/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/shyamsundars03/LeetCode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0867-transpose-matrix) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
@@ -455,6 +456,7 @@
 | [0371-sum-of-two-integers](https://github.com/shyamsundars03/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/shyamsundars03/LeetCode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shyamsundars03/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/shyamsundars03/LeetCode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/shyamsundars03/LeetCode/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shyamsundars03/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shyamsundars03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -470,6 +472,7 @@
 | [0258-add-digits](https://github.com/shyamsundars03/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shyamsundars03/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/shyamsundars03/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shyamsundars03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -501,6 +504,7 @@
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shyamsundars03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/shyamsundars03/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/shyamsundars03/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/shyamsundars03/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shyamsundars03/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/shyamsundars03/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -611,6 +615,7 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/shyamsundars03/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shyamsundars03/LeetCode/tree/master/0867-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/shyamsundars03/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/shyamsundars03/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
