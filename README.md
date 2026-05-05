@@ -36,6 +36,7 @@
 | [0696-count-binary-substrings](https://github.com/shyamsundars03/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/shyamsundars03/LeetCode/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shyamsundars03/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/shyamsundars03/LeetCode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/shyamsundars03/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0822-unique-morse-code-words](https://github.com/shyamsundars03/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0824-goat-latin](https://github.com/shyamsundars03/LeetCode/tree/master/0824-goat-latin) |
@@ -777,6 +778,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamsundars03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/shyamsundars03/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/shyamsundars03/LeetCode/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shyamsundars03/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Rolling Hash
 |  |
