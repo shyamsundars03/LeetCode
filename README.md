@@ -393,6 +393,7 @@
 | [0066-plus-one](https://github.com/shyamsundars03/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shyamsundars03/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shyamsundars03/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shyamsundars03/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/shyamsundars03/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/shyamsundars03/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shyamsundars03/LeetCode/tree/master/0263-ugly-number) |
@@ -629,6 +630,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shyamsundars03/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shyamsundars03/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shyamsundars03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/shyamsundars03/LeetCode/tree/master/0198-house-robber) |
@@ -706,6 +708,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shyamsundars03/LeetCode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/shyamsundars03/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
