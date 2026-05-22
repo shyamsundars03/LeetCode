@@ -172,6 +172,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shyamsundars03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/shyamsundars03/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1002-find-common-characters](https://github.com/shyamsundars03/LeetCode/tree/master/1002-find-common-characters) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shyamsundars03/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/shyamsundars03/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shyamsundars03/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/shyamsundars03/LeetCode/tree/master/1046-last-stone-weight) |
@@ -604,6 +605,7 @@
 | [0455-assign-cookies](https://github.com/shyamsundars03/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shyamsundars03/LeetCode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/shyamsundars03/LeetCode/tree/master/0890-lemonade-change) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shyamsundars03/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shyamsundars03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shyamsundars03/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/shyamsundars03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
