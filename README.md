@@ -662,6 +662,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shyamsundars03/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shyamsundars03/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shyamsundars03/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shyamsundars03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/shyamsundars03/LeetCode/tree/master/0682-baseball-game) |
@@ -745,6 +746,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shyamsundars03/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -752,6 +754,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shyamsundars03/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -763,6 +766,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shyamsundars03/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/shyamsundars03/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shyamsundars03/LeetCode/tree/master/0257-binary-tree-paths) |
